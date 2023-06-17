@@ -1,0 +1,48 @@
+Target URL: https://www.zscaler.es/
+Detected technologies:
+	- Next.js 
+	- Netlify 
+	- Cloudflare 
+	- HSTS 
+Detected the following interesting custom headers:
+	- X-Nextjs-Cache: REVALIDATED
+	- X-Nf-Render-Mode: odb ttl=300
+
+----------------------------------------------------------------------------------------------------
+
+Target URL: https://www.youtube.com/
+Detected technologies:
+	- HTTP/3 
+	- HSTS 
+Detected the following interesting custom headers:
+	- Report-To: {"group":"youtube_main","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube_main"}]}
+	- Origin-Trial: AvC9UlR6RDk2crliDsFl66RWLnTbHrDbp+DiY6AYz/PNQ4G4tdUTjrHYr2sghbkhGQAVxb7jaPTHpEVBz0uzQwkAAAB4eyJvcmlnaW4iOiJodHRwczovL3lvdXR1YmUuY29tOjQ0MyIsImZlYXR1cmUiOiJXZWJWaWV3WFJlcXVlc3RlZFdpdGhEZXByZWNhdGlvbiIsImV4cGlyeSI6MTcxOTUzMjc5OSwiaXNTdWJkb21haW4iOnRydWV9
+	- Cross-Origin-Opener-Policy-Report-Only: same-origin-allow-popups; report-to="youtube_main"
+	- Server: ESF
+
+----------------------------------------------------------------------------------------------------
+
+Target URL: https://www.skyhighsecurity.com/
+Detected technologies:
+	- Yoast SEO 20.3
+	- Nginx 
+	- WordPress 
+	- Google Tag Manager 
+	- WP Rocket 
+Detected the following interesting custom headers:
+	- X-Powered-By: WP Engine
+	- X-Cacheable: SHORT
+	- X-Cache-Group: normal
+
+----------------------------------------------------------------------------------------------------
+
+Target URL: https://shopusa.la/
+Detected technologies:
+	- Cloudflare 
+	- Next.js 
+Detected the following interesting custom headers:
+	- x-do-app-origin: c8119ec6-058f-4b7e-94b9-e744488a617a
+	- x-do-orig-status: 200
+
+----------------------------------------------------------------------------------------------------
+
